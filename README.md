@@ -23,13 +23,9 @@ FoodDelivery-Analysis/
 │ ├── 02_sentiment_analysis.ipynb
 │ ├── 03_TAM_feature_engineering.ipynb
 │ └── 04_analysis_and_results.ipynb
-├── data/ # Raw and processed datasets
+├── data/ # Raw datasets
 │ ├── DoorDash.csv
 │ ├── Grubhub.csv
-│ ├── Uber_Eats.csv
-│ ├── fooddelivery_updated.csv
-│ ├── fooddelivery_updated_sentiment.csv
-│ └── fooddelivery_updated_sentiment2.csv # Final dataset
 ├── LICENSE
 ├── README.md
 └── .gitignore
@@ -52,13 +48,8 @@ Run notebooks in order:
 This project is licensed under the MIT License. See LICENSE for details.
 
 
-✅ **Advantages of this version:**
+### Final Dataset
 
-- Quick overview for visitors  
-- Emojis for visual appeal  
-- Clear “Quick Start” section  
-- Highlights TAM + AI integration as the main innovation  
+The final processed dataset (`fooddelivery_updated_sentiment2.csv`, 1.52 GB) is available on Mendeley:
 
-If you want, I can also **write a very short “abstract-style” blurb** to add right at the top so it looks like a mini-paper summary. This is often helpful for research repos.  
-
-Do you want me to do that too?
+[Download from Mendeley Data](https://data.mendeley.com/datasets/m5jk7wzyg7/1)
