@@ -6,7 +6,7 @@
 
 ## 🔹 Key Features
 
-- Merge raw app review datasets from DoorDash, Grubhub, and Uber Eats.
+- Merge raw app review datasets from **DoorDash**, **Grubhub**, and **Uber Eats**.
 - Perform sentiment analysis using **Afinn** and **VADER**.
 - Extract TAM constructs: **Ease of Use**, **Usefulness**, **Intention to Use**.
 - Conduct correlation and regression analysis to study adoption behavior.
@@ -23,13 +23,12 @@ FoodDelivery-Analysis/
 │ ├── 02_sentiment_analysis.ipynb
 │ ├── 03_TAM_feature_engineering.ipynb
 │ └── 04_analysis_and_results.ipynb
-├── data/ # Raw datasets
-│ ├── DoorDash.csv
-│ ├── Grubhub.csv
 ├── LICENSE
 ├── README.md
 └── .gitignore
 
+
+> ⚠️ Note: Large datasets are not included in this repository. See **Final Dataset** section below.
 
 ---
 
